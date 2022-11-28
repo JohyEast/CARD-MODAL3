@@ -1,0 +1,93 @@
+.div-principal {
+ width: 859px;
+ height: 928px;
+ margin: auto;
+ font-family: "Mulish";
+}
+
+.registra-turno {
+ background-color: #203774;
+ width: 859px;
+ height: 125px;
+ border-radius: 15px 15px 0px 0px;
+ display: flex;
+ align-items: center;
+}
+
+.h1-t {
+ font-size: 36px;
+ color: #ffffff;
+ width: 292px;
+ height: 45px;
+ margin-left: 41px;
+ margin-top: 40px;
+}
+
+.cruz {
+ margin-top: 21px;
+ margin-left: 456px;
+}
+
+.flechas {
+ margin-top: 35px;
+ margin-left: 35px;
+ margin-right: 35px;
+}
+
+.sep {
+ margin-top: 49px;
+ font-size: 36px;
+ margin-bottom: 15px;
+}
+
+.hoy {
+ margin-top: 0px;
+ font-size: 18px;
+ text-align: center;
+}
+
+.date {
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+}
+
+.odontologia {
+ width: 524px;
+ height: 245px;
+ background-color: #203774;
+ color: #ffffff;
+ border-radius: 15px;
+ display: flex;
+ justify-content: space-between;
+ flex-wrap: wrap;
+}
+
+.h3-odonto {
+ font-size: 26px;
+}
+.horario-especialidad {
+ margin-left: 45px;
+ padding-top: 20px;
+}
+
+.pedir-turno {
+ width: 153px;
+ height: 53px;
+ font-size: 18px;
+ border-radius: 10px;
+ border: 0px;
+ margin-top: 55px;
+ margin-right: 74px;
+}
+
+.imgprof {
+ padding-bottom: 34px;
+ margin-left: 20px;
+}
+
+.turnos {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
