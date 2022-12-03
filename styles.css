@@ -1,3 +1,6 @@
+* {
+ box-sizing: border-box;
+}
 .div-principal {
  width: 859px;
  height: 928px;
